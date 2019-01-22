@@ -1,5 +1,8 @@
 # WKP: a weird kind of printer
 
+> You can find an article about my adventures with plotters [here](https://www.benjaminpoilve.com/projects/plotter-story.html#)
+
+
 This is the project that kickstarted my love for DIY CNC machine!
 
 [![](Media/output.gif)](https://www.youtube.com/watch?v=Wvt8n5BqoFU)
